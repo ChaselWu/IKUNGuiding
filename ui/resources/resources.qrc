@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="catCai">images/catCai.png</file>
+        <file alias="bupt_sandriver_map">images/bupt_sandriver_map.jpg</file>
+        <file alias="logo">images/logo.png</file>
+        <file alias="search">images/search.jpg</file>
+        <file alias="route">images/route.jpg</file>
+    </qresource>
+</RCC>
