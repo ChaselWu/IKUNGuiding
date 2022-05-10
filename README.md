@@ -27,5 +27,6 @@ Alex，捞捞Man：左上角坐标rightOrigin，宽度rightWidth，长度rightHe
 
 V：地点的绑定，平移缩放，按钮响应逻辑完善
 
+三金：算法完善
 
 ddl: 5.17
