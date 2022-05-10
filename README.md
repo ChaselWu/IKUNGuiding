@@ -15,3 +15,17 @@ ui：V
 #### DDL：
 
 2022/4/26
+
+
+### 第二阶段说明
+
+Trump-Moon：index, description
+
+Alex，捞捞Man：左上角坐标rightOrigin，宽度rightWidth，长度rightHeight
+
+花椒：比例尺
+
+V：地点的绑定，平移缩放，按钮响应逻辑完善
+
+
+ddl: 5.17
